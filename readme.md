@@ -3,7 +3,7 @@
 # how to?
 
 - 1 select Winform App, Project, right click, add new item: select "app.manifest", OK
-- 2 vs will auto create a file "app.manifest" under properties folder
+- 2 vs will auto create a file named "app.manifest" under the project folder
 - 3 edit "app.manifest", change [requestedExecutionLevel's level] from "asInvoker" to "requireAdministrator"
 - 4 rebuild. DONE!
 
